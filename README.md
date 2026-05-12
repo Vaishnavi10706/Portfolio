@@ -36,7 +36,6 @@ The goal of this project is to create a clean, interactive, and responsive platf
 
 - HTML
 - CSS
-- JavaScript
 - Git & GitHub
 
 ---
@@ -59,6 +58,12 @@ git clone https://github.com/Vaishnavi10706/Portfolio.git
 ```
 
 Start the local server
+
+## 👩‍💻 Author
+
+Vaishnavi
+
+GitHub: Vaishnavi10706
 
 ⭐ Show Your Support
 
