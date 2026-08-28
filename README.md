@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built to showcase my projects
 
 ## 🚀 Live Demo
 
-🔗 [Deployed Link](https://vaishnavi10706.github.io/Portfolio/)
+🔗 [Live Link](https://vaishnavi10706.github.io/Portfolio/)
 
 ---
 
@@ -50,21 +50,21 @@ Portfolio/
 └── README.md
 ```
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
-Clone the repository:
+1. Clone the repository:
 ```
 git clone https://github.com/Vaishnavi10706/Portfolio.git
 ```
 
-Start the local server
+2. Start the local server
 
 ## 👩‍💻 Author
 
 Vaishnavi
 
-GitHub: Vaishnavi10706
+**GitHub:** Vaishnavi10706
 
-⭐ Show Your Support
+## ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
