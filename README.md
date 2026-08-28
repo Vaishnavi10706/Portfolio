@@ -2,6 +2,8 @@
 
 A modern and responsive personal portfolio website built to showcase my projects, skills, achievements, and technical journey as a Computer Science student passionate about Frontend Development, Data Science, and Machine Learning.
 
+---
+
 ## 🚀 Live Demo
 
 🔗 [Live Link](https://vaishnavi10706.github.io/Portfolio/)
@@ -50,6 +52,8 @@ Portfolio/
 └── README.md
 ```
 
+---
+
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
@@ -59,12 +63,19 @@ git clone https://github.com/Vaishnavi10706/Portfolio.git
 
 2. Start the local server
 
+---
+
 ## 👩‍💻 Author
 
 Vaishnavi
 
 **GitHub:** Vaishnavi10706
 
+---
+
 ## ⭐ Show Your Support
 
 If you like this project, give it a ⭐ on GitHub!
+
+---
+
